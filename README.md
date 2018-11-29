@@ -19,8 +19,9 @@ Notes and codes of the topic "Semi-supervised learning"
 ### Generative model based
 * Kingma, Diederik P., et al. "Semi-supervised learning with deep generative models." Advances in Neural Information Processing Systems. 2014.
 * Dai, Zihang, et al. "Good semi-supervised learning that requires a bad gan." Advances in Neural Information Processing Systems. 2017.
+* Rasmus, Antti, et al. "Semi-supervised learning with ladder networks." Advances in Neural Information Processing Systems. 2015.
 
-### Others
+### Others (including low-density separation methods)
 * Laine, Samuli, and Timo Aila. "Temporal ensembling for semi-supervised learning." arXiv preprint arXiv:1610.02242 (2016).
 * Vashishth, Shikhar, et al. "Confidence-based Graph Convolutional Networks for Semi-Supervised Learning." (2018).
 * Tarvainen, Antti, and Harri Valpola. "Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results." Advances in neural information processing systems. 2017., https://github.com/CuriousAI/mean-teacher
