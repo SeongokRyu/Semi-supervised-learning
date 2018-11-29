@@ -2,6 +2,7 @@
 Notes and codes of the topic "Semi-supervised learning"
 
 
+* Graph-based Semi-supervised Learning, Zoubin Ghahramani, http://mlg.eng.cam.ac.uk/zoubin/talks/lect3ssl.pdf
 * Zhu, Xiaojin. "Semi-supervised learning literature survey." Computer Science, University of Wisconsin-Madison 2.3 (2006): 4.
 * Zhu, Xiaojin, and Zoubin Ghahramani. "Learning from labeled and unlabeled data with label propagation." (2002): 1.
 * Kingma, Diederik P., et al. "Semi-supervised learning with deep generative models." Advances in Neural Information Processing Systems. 2014.
