@@ -7,6 +7,7 @@ Notes and codes of the topic "Semi-supervised learning"
 * Machine Learning CMU 10-605 Fall 2016, Lecture21 - SSL on Graphs, https://www.youtube.com/watch?v=4RrJUrmRrbc
 * Bayesian Semi-Supervised Learning with Deep Generative Models, Presented by José-Miguel Hernández-Lobato, University of Cambridge at the Arm Research Summit 2017., https://www.youtube.com/watch?v=1ClZhMSHeBA
 * Zhu, Xiaojin. "Semi-supervised learning literature survey." Computer Science, University of Wisconsin-Madison 2.3 (2006): 4.
+* Chapelle, Olivier, Bernhard Scholkopf, and Alexander Zien. "Semi-supervised learning (chapelle, o. et al., eds.; 2006)[book reviews]." IEEE Transactions on Neural Networks 20.3 (2009): 542-542., http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf
 
 
 ## [Papers] Semi-supervised learning
